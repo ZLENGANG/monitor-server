@@ -1,4 +1,4 @@
 module.exports = {
-    WIN_WIN_TOKEN: "974b9eeac40b1c0d69f87155cb90d114b6c1cd49",
+    WIN_WIN_TOKEN: "c042acf07ddd0b56e86a4b007173b07602570b97",
     SEND_KEY: "SCT252192TnpgEYho5O5EPR0f4Fegi6jht"
 }

@@ -35,6 +35,10 @@ const clubs = [
     { id: 50002720, club: '柔佛新山' },
     { id: 50007190, club: '上海海港' },
     { id: 50000334, club: '上海申花' },
+    { id: 50000627, club: '英格兰' },
+    { id: 50001869, club: '西班牙' },
+    { id: 50000789, club: '法国' },
+    { id: 50000067, club: '阿根廷' },
 ]
 
 const getTodayGameData = (url) => {
