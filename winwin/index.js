@@ -7,6 +7,7 @@ const dataJSONPath = resolve(__dirname, "./data.json");
 
 const cookies = `_skin_=blue; token=${WIN_WIN_TOKEN}`;
 const sendUrl = `https://sctapi.ftqq.com/${SEND_KEY}.send`;
+const mySendUrl = "http://103.143.72.25:1998/sendMsg";
 const map = {
   AULUCKY10: {
     template: "PK10",
@@ -372,6 +373,7 @@ const writeFileAndSend = async (findObj) => {
     )
   ) {
     axios.post(sendUrl, sendInfo);
+    axios.post(mySendUrl, sendInfo);
     await fs.writeFileSync(dataJSONPath, JSON.stringify(overArr, null, 2));
     console.log(info);
   }
