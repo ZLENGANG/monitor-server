@@ -1807,5 +1807,3677 @@
     "game": "DS3",
     "date": "2024-07-14",
     "time": "20:40:49"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-15",
+    "time": "04:35:05"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 9,
+    "game": "DS4",
+    "date": "2024-07-15",
+    "time": "10:46:17"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 9,
+    "game": "ZWDX",
+    "date": "2024-07-15",
+    "time": "10:48:17"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-15",
+    "time": "10:53:10"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX3",
+    "date": "2024-07-15",
+    "time": "10:58:10"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX3",
+    "date": "2024-07-15",
+    "time": "10:59:40"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "WDX3",
+    "date": "2024-07-15",
+    "time": "11:00:40"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "WDX3",
+    "date": "2024-07-15",
+    "time": "11:02:10"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-15",
+    "time": "11:27:11"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-15",
+    "time": "11:32:41"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS6",
+    "date": "2024-07-15",
+    "time": "11:33:41"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH3",
+    "date": "2024-07-15",
+    "time": "11:59:41"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "LH3",
+    "date": "2024-07-15",
+    "time": "12:00:42"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "LH3",
+    "date": "2024-07-15",
+    "time": "12:02:12"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX7",
+    "date": "2024-07-15",
+    "time": "12:15:42"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS7",
+    "date": "2024-07-15",
+    "time": "12:43:12"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX5",
+    "date": "2024-07-15",
+    "time": "12:57:13"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX5",
+    "date": "2024-07-15",
+    "time": "12:58:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:05:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:10:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 14,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:15:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 15,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:20:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 16,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:25:13"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 17,
+    "game": "WDX8",
+    "date": "2024-07-15",
+    "time": "13:30:13"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-15",
+    "time": "14:14:44"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DS3",
+    "date": "2024-07-15",
+    "time": "14:15:44"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-15",
+    "time": "14:19:14"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-15",
+    "time": "14:24:14"
+  },
+  {
+    "type": "XYSSC",
+    "name": "幸运时时彩",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-15",
+    "time": "14:30:14"
+  },
+  {
+    "type": "XYSSC",
+    "name": "幸运时时彩",
+    "count": 13,
+    "game": "ZDS",
+    "date": "2024-07-15",
+    "time": "14:40:15"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX2",
+    "date": "2024-07-15",
+    "time": "15:35:45"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX2",
+    "date": "2024-07-15",
+    "time": "15:37:15"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "DX2",
+    "date": "2024-07-15",
+    "time": "15:38:15"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "DX2",
+    "date": "2024-07-15",
+    "time": "15:39:45"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH5",
+    "date": "2024-07-15",
+    "time": "15:58:46"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "LH5",
+    "date": "2024-07-15",
+    "time": "16:00:16"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "LH5",
+    "date": "2024-07-15",
+    "time": "16:01:16"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "LH2",
+    "date": "2024-07-15",
+    "time": "16:03:16"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-15",
+    "time": "16:04:46"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-15",
+    "time": "16:05:16"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX1",
+    "date": "2024-07-15",
+    "time": "16:06:16"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "16:57:17"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "16:58:17"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "16:59:47"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "17:00:47"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 16,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "17:02:17"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 17,
+    "game": "HDS2",
+    "date": "2024-07-15",
+    "time": "17:03:17"
+  },
+  {
+    "type": "SGKL8",
+    "name": "SG快乐8",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-15",
+    "time": "17:20:17"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-15",
+    "time": "18:16:18"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX2",
+    "date": "2024-07-15",
+    "time": "18:30:18"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-15",
+    "time": "18:32:18"
+  },
+  {
+    "type": "SGSSC",
+    "name": "SG时时彩",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-15",
+    "time": "18:35:18"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "WDX",
+    "date": "2024-07-15",
+    "time": "19:14:19"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "WDX",
+    "date": "2024-07-15",
+    "time": "19:19:19"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 14,
+    "game": "WDX",
+    "date": "2024-07-15",
+    "time": "19:24:19"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS10",
+    "date": "2024-07-15",
+    "time": "21:11:21"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "HDS7",
+    "date": "2024-07-15",
+    "time": "22:55:23"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "HDS7",
+    "date": "2024-07-15",
+    "time": "23:00:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:09:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 13,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:14:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 14,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:19:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 15,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:24:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 16,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:29:23"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 17,
+    "game": "DX6",
+    "date": "2024-07-15",
+    "time": "23:34:24"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS4",
+    "date": "2024-07-16",
+    "time": "00:13:24"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-16",
+    "time": "01:10:09"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX6",
+    "date": "2024-07-16",
+    "time": "01:29:39"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "02:17:10"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "02:18:10"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "HDS4",
+    "date": "2024-07-16",
+    "time": "02:19:10"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 13,
+    "game": "HDS4",
+    "date": "2024-07-16",
+    "time": "02:24:11"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 14,
+    "game": "HDS4",
+    "date": "2024-07-16",
+    "time": "02:29:11"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-16",
+    "time": "02:48:11"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-16",
+    "time": "03:04:41"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DS4",
+    "date": "2024-07-16",
+    "time": "03:05:41"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMDX1",
+    "date": "2024-07-16",
+    "time": "03:24:12"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "HDS3",
+    "date": "2024-07-16",
+    "time": "03:35:12"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-16",
+    "time": "04:45:44"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-16",
+    "time": "04:55:44"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMWDX6",
+    "date": "2024-07-16",
+    "time": "05:14:14"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS7",
+    "date": "2024-07-16",
+    "time": "05:17:44"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "DX6",
+    "date": "2024-07-16",
+    "time": "05:18:44"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMWDX6",
+    "date": "2024-07-16",
+    "time": "05:19:14"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "DX6",
+    "date": "2024-07-16",
+    "time": "05:22:44"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 14,
+    "game": "ZMWDX6",
+    "date": "2024-07-16",
+    "time": "05:24:14"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMDX3",
+    "date": "2024-07-16",
+    "time": "07:24:17"
+  },
+  {
+    "type": "SGSSC",
+    "name": "SG时时彩",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-16",
+    "time": "07:50:18"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-16",
+    "time": "08:05:48"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "GDX",
+    "date": "2024-07-16",
+    "time": "08:06:48"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "GDX",
+    "date": "2024-07-16",
+    "time": "08:08:18"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-16",
+    "time": "08:11:48"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-16",
+    "time": "08:15:48"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-16",
+    "time": "10:01:50"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS4",
+    "date": "2024-07-16",
+    "time": "10:03:20"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "HDS5",
+    "date": "2024-07-16",
+    "time": "10:29:21"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 13,
+    "game": "HDS5",
+    "date": "2024-07-16",
+    "time": "10:34:21"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS8",
+    "date": "2024-07-16",
+    "time": "10:38:21"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 14,
+    "game": "HDS5",
+    "date": "2024-07-16",
+    "time": "10:39:21"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "12:26:53"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 13,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "12:28:23"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 14,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "12:29:23"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH3",
+    "date": "2024-07-16",
+    "time": "12:56:53"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "13:11:54"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "13:13:24"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "13:14:24"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-16",
+    "time": "13:50:54"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS3",
+    "date": "2024-07-16",
+    "time": "13:51:54"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX6",
+    "date": "2024-07-16",
+    "time": "14:28:25"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH5",
+    "date": "2024-07-16",
+    "time": "14:57:25"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-16",
+    "time": "15:25:56"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "ZDX",
+    "date": "2024-07-16",
+    "time": "15:26:56"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-16",
+    "time": "15:31:56"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 13,
+    "game": "ZDX",
+    "date": "2024-07-16",
+    "time": "15:33:26"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX1",
+    "date": "2024-07-16",
+    "time": "15:48:26"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX1",
+    "date": "2024-07-16",
+    "time": "15:49:26"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX8",
+    "date": "2024-07-16",
+    "time": "16:05:56"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX8",
+    "date": "2024-07-16",
+    "time": "16:06:56"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "WDX8",
+    "date": "2024-07-16",
+    "time": "16:08:26"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "WDX8",
+    "date": "2024-07-16",
+    "time": "16:09:26"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "16:20:56"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "16:21:56"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "16:23:26"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 15,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "16:24:26"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 16,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "16:25:57"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMDS1",
+    "date": "2024-07-16",
+    "time": "19:00:59"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMDS1",
+    "date": "2024-07-16",
+    "time": "19:04:29"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "WDX7",
+    "date": "2024-07-16",
+    "time": "19:07:59"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMDS1",
+    "date": "2024-07-16",
+    "time": "19:08:59"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "WDX7",
+    "date": "2024-07-16",
+    "time": "19:09:59"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "WDX7",
+    "date": "2024-07-16",
+    "time": "19:10:29"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 14,
+    "game": "WDX7",
+    "date": "2024-07-16",
+    "time": "19:15:29"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 15,
+    "game": "WDX7",
+    "date": "2024-07-16",
+    "time": "19:20:29"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "19:59:30"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS9",
+    "date": "2024-07-16",
+    "time": "20:17:00"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS9",
+    "date": "2024-07-16",
+    "time": "20:18:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS9",
+    "date": "2024-07-16",
+    "time": "21:02:31"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-16",
+    "time": "22:16:32"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "22:27:32"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "22:29:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "22:30:03"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DX1",
+    "date": "2024-07-16",
+    "time": "22:31:32"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-16",
+    "time": "22:34:02"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMDS4",
+    "date": "2024-07-16",
+    "time": "22:54:03"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMDS4",
+    "date": "2024-07-16",
+    "time": "22:59:03"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 14,
+    "game": "ZMDS4",
+    "date": "2024-07-16",
+    "time": "23:04:03"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-16",
+    "time": "23:17:33"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS3",
+    "date": "2024-07-16",
+    "time": "23:18:33"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "23:37:03"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 13,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "23:38:03"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 14,
+    "game": "LH",
+    "date": "2024-07-16",
+    "time": "23:39:33"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-16",
+    "time": "23:41:03"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-16",
+    "time": "23:42:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS1",
+    "date": "2024-07-16",
+    "time": "23:43:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX10",
+    "date": "2024-07-17",
+    "time": "00:27:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX10",
+    "date": "2024-07-17",
+    "time": "00:28:34"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS4",
+    "date": "2024-07-17",
+    "time": "00:42:05"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "HDS4",
+    "date": "2024-07-17",
+    "time": "00:43:05"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "HDS4",
+    "date": "2024-07-17",
+    "time": "00:44:35"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "WDX7",
+    "date": "2024-07-17",
+    "time": "00:50:05"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "01:20:05"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "01:21:05"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "GDS",
+    "date": "2024-07-17",
+    "time": "01:24:05"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-17",
+    "time": "02:05:06"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-17",
+    "time": "02:06:06"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS1",
+    "date": "2024-07-17",
+    "time": "02:07:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH3",
+    "date": "2024-07-17",
+    "time": "03:04:37"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "LH3",
+    "date": "2024-07-17",
+    "time": "03:05:37"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "LH3",
+    "date": "2024-07-17",
+    "time": "03:07:07"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "LH3",
+    "date": "2024-07-17",
+    "time": "03:08:07"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-17",
+    "time": "03:55:38"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS3",
+    "date": "2024-07-17",
+    "time": "03:57:08"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "HDS6",
+    "date": "2024-07-17",
+    "time": "04:10:08"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "HDS6",
+    "date": "2024-07-17",
+    "time": "04:15:08"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS10",
+    "date": "2024-07-17",
+    "time": "05:46:09"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS10",
+    "date": "2024-07-17",
+    "time": "05:47:39"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "09:45:13"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 13,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "09:50:13"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-17",
+    "time": "10:27:14"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DX8",
+    "date": "2024-07-17",
+    "time": "10:28:14"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX9",
+    "date": "2024-07-17",
+    "time": "10:47:44"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX9",
+    "date": "2024-07-17",
+    "time": "10:48:44"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX9",
+    "date": "2024-07-17",
+    "time": "10:50:14"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DX9",
+    "date": "2024-07-17",
+    "time": "10:51:14"
+  },
+  {
+    "type": "KL8JSC",
+    "name": "极速快乐8",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-17",
+    "time": "11:00:44"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-17",
+    "time": "11:25:44"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "GDX",
+    "date": "2024-07-17",
+    "time": "11:27:15"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "GDX",
+    "date": "2024-07-17",
+    "time": "11:28:15"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 15,
+    "game": "GDX",
+    "date": "2024-07-17",
+    "time": "11:29:45"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS1",
+    "date": "2024-07-17",
+    "time": "11:48:15"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "12:02:15"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "ZWDX",
+    "date": "2024-07-17",
+    "time": "12:15:45"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "12:43:16"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-17",
+    "time": "14:30:18"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-17",
+    "time": "14:35:18"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-17",
+    "time": "15:28:19"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DS6",
+    "date": "2024-07-17",
+    "time": "15:29:19"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "DS6",
+    "date": "2024-07-17",
+    "time": "15:30:49"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-17",
+    "time": "16:08:20"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DX4",
+    "date": "2024-07-17",
+    "time": "16:09:20"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-17",
+    "time": "16:10:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:26:50"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:28:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:29:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 15,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:30:50"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 16,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:31:50"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 17,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "16:33:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "16:51:51"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "16:53:21"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "16:54:21"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 15,
+    "game": "LH4",
+    "date": "2024-07-17",
+    "time": "16:55:51"
+  },
+  {
+    "type": "SGSSC",
+    "name": "SG时时彩",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-17",
+    "time": "17:00:21"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH5",
+    "date": "2024-07-17",
+    "time": "17:24:21"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-17",
+    "time": "17:40:52"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX2",
+    "date": "2024-07-17",
+    "time": "18:20:52"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "18:30:52"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 12,
+    "game": "DS10",
+    "date": "2024-07-17",
+    "time": "18:45:23"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 13,
+    "game": "DS10",
+    "date": "2024-07-17",
+    "time": "18:50:23"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 14,
+    "game": "DS10",
+    "date": "2024-07-17",
+    "time": "18:55:23"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-17",
+    "time": "19:54:24"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS2",
+    "date": "2024-07-17",
+    "time": "20:29:24"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMDS6",
+    "date": "2024-07-17",
+    "time": "20:59:25"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMDS6",
+    "date": "2024-07-17",
+    "time": "21:04:25"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 14,
+    "game": "ZMDS6",
+    "date": "2024-07-17",
+    "time": "21:09:25"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 15,
+    "game": "ZMDS6",
+    "date": "2024-07-17",
+    "time": "21:14:25"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-17",
+    "time": "22:06:56"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-17",
+    "time": "22:08:26"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "HDS7",
+    "date": "2024-07-17",
+    "time": "22:19:26"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-17",
+    "time": "22:44:27"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 13,
+    "game": "DX4",
+    "date": "2024-07-17",
+    "time": "22:49:27"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-17",
+    "time": "22:52:57"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX7",
+    "date": "2024-07-17",
+    "time": "22:55:57"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX7",
+    "date": "2024-07-17",
+    "time": "22:56:57"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "DX7",
+    "date": "2024-07-17",
+    "time": "22:58:27"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "ZWDX",
+    "date": "2024-07-17",
+    "time": "23:55:58"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 13,
+    "game": "ZWDX",
+    "date": "2024-07-17",
+    "time": "23:56:58"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-17",
+    "time": "23:59:28"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DS4",
+    "date": "2024-07-18",
+    "time": "00:00:58"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DS4",
+    "date": "2024-07-18",
+    "time": "00:01:58"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "00:42:29"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "00:43:59"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "01:01:59"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "01:08:29"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDS",
+    "date": "2024-07-18",
+    "time": "01:43:30"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "GDS",
+    "date": "2024-07-18",
+    "time": "01:44:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "01:55:00"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "01:56:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "01:57:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "01:59:00"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "02:00:00"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 17,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "02:01:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 18,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "02:02:30"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "02:47:31"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "04:29:03"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-18",
+    "time": "04:34:33"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "HDS5",
+    "date": "2024-07-18",
+    "time": "04:40:33"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-18",
+    "time": "04:59:04"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "05:22:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "05:24:04"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX10",
+    "date": "2024-07-18",
+    "time": "05:25:04"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-18",
+    "time": "05:26:34"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS1",
+    "date": "2024-07-18",
+    "time": "05:31:04"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "HDS1",
+    "date": "2024-07-18",
+    "time": "05:32:04"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "HDS1",
+    "date": "2024-07-18",
+    "time": "05:33:04"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-18",
+    "time": "07:10:36"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-18",
+    "time": "07:26:07"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX3",
+    "date": "2024-07-18",
+    "time": "07:27:37"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-18",
+    "time": "08:08:38"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "LH1",
+    "date": "2024-07-18",
+    "time": "08:10:08"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-18",
+    "time": "08:54:09"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-18",
+    "time": "10:15:41"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS7",
+    "date": "2024-07-18",
+    "time": "11:59:27"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DS7",
+    "date": "2024-07-18",
+    "time": "12:00:57"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:03:58"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:04:58"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:06:28"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:07:28"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:08:58"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 17,
+    "game": "DS3",
+    "date": "2024-07-18",
+    "time": "13:09:58"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS7",
+    "date": "2024-07-18",
+    "time": "13:15:58"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "14:30:29"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "14:35:29"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "16:09:01"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "DX2",
+    "date": "2024-07-18",
+    "time": "17:09:32"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "17:34:32"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "17:35:32"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "17:37:02"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 15,
+    "game": "DX6",
+    "date": "2024-07-18",
+    "time": "17:38:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-18",
+    "time": "17:41:02"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX1",
+    "date": "2024-07-18",
+    "time": "17:43:02"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX1",
+    "date": "2024-07-18",
+    "time": "17:44:32"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX9",
+    "date": "2024-07-18",
+    "time": "17:50:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX9",
+    "date": "2024-07-18",
+    "time": "17:51:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX9",
+    "date": "2024-07-18",
+    "time": "17:52:32"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "18:49:33"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-18",
+    "time": "18:50:33"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX2",
+    "date": "2024-07-18",
+    "time": "19:16:04"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX2",
+    "date": "2024-07-18",
+    "time": "19:17:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX2",
+    "date": "2024-07-18",
+    "time": "19:18:34"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "19:22:04"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "19:28:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "19:30:04"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "19:38:04"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "19:39:34"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 12,
+    "game": "ZWDX",
+    "date": "2024-07-18",
+    "time": "20:15:05"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 13,
+    "game": "ZWDX",
+    "date": "2024-07-18",
+    "time": "20:20:05"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDS",
+    "date": "2024-07-18",
+    "time": "20:25:35"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "GDS",
+    "date": "2024-07-18",
+    "time": "20:27:05"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "21:07:35"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "21:08:35"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMWDX1",
+    "date": "2024-07-18",
+    "time": "21:24:06"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZMWDX1",
+    "date": "2024-07-18",
+    "time": "21:29:06"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-18",
+    "time": "21:32:36"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DX4",
+    "date": "2024-07-18",
+    "time": "21:33:06"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DX4",
+    "date": "2024-07-18",
+    "time": "21:34:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "22:09:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "22:10:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "DX1",
+    "date": "2024-07-18",
+    "time": "22:12:06"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "22:18:07"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "22:19:37"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "DX5",
+    "date": "2024-07-18",
+    "time": "22:20:37"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "23:48:08"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX8",
+    "date": "2024-07-18",
+    "time": "23:49:38"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS1",
+    "date": "2024-07-18",
+    "time": "23:55:38"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "DX9",
+    "date": "2024-07-19",
+    "time": "00:19:08"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 13,
+    "game": "DX9",
+    "date": "2024-07-19",
+    "time": "00:24:09"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "00:39:09"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-19",
+    "time": "00:47:09"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "LH3",
+    "date": "2024-07-19",
+    "time": "01:50:10"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "LH3",
+    "date": "2024-07-19",
+    "time": "01:51:10"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "04:05:42"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "04:07:12"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-19",
+    "time": "05:23:13"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH3",
+    "date": "2024-07-19",
+    "time": "05:25:43"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "05:43:14"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-19",
+    "time": "07:04:45"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZHDS3",
+    "date": "2024-07-19",
+    "time": "09:09:17"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:12:17"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:13:47"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:14:47"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "TDX",
+    "date": "2024-07-19",
+    "time": "09:15:47"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:16:17"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:17:17"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 17,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "09:18:47"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "TDX",
+    "date": "2024-07-19",
+    "time": "09:19:47"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS10",
+    "date": "2024-07-19",
+    "time": "09:51:47"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "10:33:48"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "10:34:48"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "10:36:18"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DS1",
+    "date": "2024-07-19",
+    "time": "10:37:18"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-19",
+    "time": "10:46:48"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "10:56:48"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX5",
+    "date": "2024-07-19",
+    "time": "12:05:50"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX5",
+    "date": "2024-07-19",
+    "time": "12:06:50"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "WDX5",
+    "date": "2024-07-19",
+    "time": "12:08:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS7",
+    "date": "2024-07-19",
+    "time": "12:23:20"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS7",
+    "date": "2024-07-19",
+    "time": "12:24:20"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DS3",
+    "date": "2024-07-19",
+    "time": "12:51:20"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "12:58:20"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "12:59:20"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "13:00:50"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-19",
+    "time": "13:01:50"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "13:38:51"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "13:39:51"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "DX7",
+    "date": "2024-07-19",
+    "time": "13:50:21"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-19",
+    "time": "13:54:21"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "DX7",
+    "date": "2024-07-19",
+    "time": "13:55:21"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 14,
+    "game": "DX7",
+    "date": "2024-07-19",
+    "time": "14:00:21"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "14:10:21"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 13,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "14:15:22"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "14:55:52"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "14:59:22"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "15:01:52"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "15:02:52"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "15:03:22"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS2",
+    "date": "2024-07-19",
+    "time": "15:18:23"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-19",
+    "time": "15:49:23"
+  },
+  {
+    "type": "SGKLSF",
+    "name": "SG快乐十分",
+    "count": 12,
+    "game": "ZWDX",
+    "date": "2024-07-19",
+    "time": "15:50:23"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "16:09:23"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX3",
+    "date": "2024-07-19",
+    "time": "16:10:53"
+  },
+  {
+    "type": "SGKL8",
+    "name": "SG快乐8",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-19",
+    "time": "17:05:24"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:06:24"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:07:24"
+  },
+  {
+    "type": "SGKL8",
+    "name": "SG快乐8",
+    "count": 12,
+    "game": "ZDS",
+    "date": "2024-07-19",
+    "time": "17:08:24"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:08:54"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:09:54"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:11:24"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 17,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:12:24"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 18,
+    "game": "GDX",
+    "date": "2024-07-19",
+    "time": "17:13:54"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "17:40:25"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "17:45:25"
+  },
+  {
+    "type": "SGFT",
+    "name": "SG飞艇",
+    "count": 14,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "17:50:25"
+  },
+  {
+    "type": "KL8JSC",
+    "name": "极速快乐8",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-19",
+    "time": "18:39:26"
+  },
+  {
+    "type": "KL8JSC",
+    "name": "极速快乐8",
+    "count": 13,
+    "game": "ZDX",
+    "date": "2024-07-19",
+    "time": "18:40:56"
+  },
+  {
+    "type": "KL8JSC",
+    "name": "极速快乐8",
+    "count": 14,
+    "game": "ZDX",
+    "date": "2024-07-19",
+    "time": "18:41:56"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX1",
+    "date": "2024-07-19",
+    "time": "19:31:57"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX1",
+    "date": "2024-07-19",
+    "time": "19:33:27"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS6",
+    "date": "2024-07-19",
+    "time": "21:03:28"
+  },
+  {
+    "type": "XYFT",
+    "name": "幸运飞艇",
+    "count": 12,
+    "game": "DS5",
+    "date": "2024-07-19",
+    "time": "21:09:28"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:28:59"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:29:59"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:31:29"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:32:29"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:33:59"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 17,
+    "game": "DX10",
+    "date": "2024-07-19",
+    "time": "21:34:59"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 12,
+    "game": "ZWDX",
+    "date": "2024-07-19",
+    "time": "22:05:29"
+  },
+  {
+    "type": "SG11X5",
+    "name": "SG11选5",
+    "count": 13,
+    "game": "ZWDX",
+    "date": "2024-07-19",
+    "time": "22:10:29"
+  },
+  {
+    "type": "SGSSC",
+    "name": "SG时时彩",
+    "count": 12,
+    "game": "ZDX",
+    "date": "2024-07-19",
+    "time": "22:20:29"
+  },
+  {
+    "type": "SGSSC",
+    "name": "SG时时彩",
+    "count": 13,
+    "game": "ZDX",
+    "date": "2024-07-19",
+    "time": "22:25:29"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "22:59:30"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-19",
+    "time": "23:01:00"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS7",
+    "date": "2024-07-20",
+    "time": "00:03:31"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX10",
+    "date": "2024-07-20",
+    "time": "00:31:31"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX10",
+    "date": "2024-07-20",
+    "time": "00:32:32"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "DX10",
+    "date": "2024-07-20",
+    "time": "00:34:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 15,
+    "game": "DX10",
+    "date": "2024-07-20",
+    "time": "00:35:02"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 16,
+    "game": "DX10",
+    "date": "2024-07-20",
+    "time": "00:36:32"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "DX7",
+    "date": "2024-07-20",
+    "time": "00:59:02"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS1",
+    "date": "2024-07-20",
+    "time": "01:17:02"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS8",
+    "date": "2024-07-20",
+    "time": "01:19:32"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 12,
+    "game": "ZMWDX4",
+    "date": "2024-07-20",
+    "time": "01:29:02"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 13,
+    "game": "ZHDS6",
+    "date": "2024-07-20",
+    "time": "01:34:02"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 14,
+    "game": "ZHDS6",
+    "date": "2024-07-20",
+    "time": "01:39:03"
+  },
+  {
+    "type": "HK6JSC",
+    "name": "极速六合彩",
+    "count": 15,
+    "game": "ZHDS6",
+    "date": "2024-07-20",
+    "time": "01:44:03"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "DX8",
+    "date": "2024-07-20",
+    "time": "02:10:03"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "DX8",
+    "date": "2024-07-20",
+    "time": "02:11:03"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "DS2",
+    "date": "2024-07-20",
+    "time": "02:25:33"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 13,
+    "game": "DS2",
+    "date": "2024-07-20",
+    "time": "02:27:03"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 14,
+    "game": "DS2",
+    "date": "2024-07-20",
+    "time": "02:28:03"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 15,
+    "game": "DS2",
+    "date": "2024-07-20",
+    "time": "02:29:33"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 16,
+    "game": "DS2",
+    "date": "2024-07-20",
+    "time": "02:30:33"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX5",
+    "date": "2024-07-20",
+    "time": "02:43:04"
+  },
+  {
+    "type": "AULUCKY8",
+    "name": "澳洲幸运8",
+    "count": 12,
+    "game": "WDX1",
+    "date": "2024-07-20",
+    "time": "02:59:04"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 13,
+    "game": "GDS",
+    "date": "2024-07-20",
+    "time": "03:02:34"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 14,
+    "game": "GDS",
+    "date": "2024-07-20",
+    "time": "03:03:34"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DS4",
+    "date": "2024-07-20",
+    "time": "04:12:05"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DS4",
+    "date": "2024-07-20",
+    "time": "04:13:05"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DS4",
+    "date": "2024-07-20",
+    "time": "04:14:35"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "HDS4",
+    "date": "2024-07-20",
+    "time": "04:24:35"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "HDS4",
+    "date": "2024-07-20",
+    "time": "04:25:35"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "HDS4",
+    "date": "2024-07-20",
+    "time": "04:27:05"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 15,
+    "game": "HDS4",
+    "date": "2024-07-20",
+    "time": "04:28:05"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "GDS",
+    "date": "2024-07-20",
+    "time": "04:49:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-20",
+    "time": "05:18:06"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "LH1",
+    "date": "2024-07-20",
+    "time": "05:19:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "WDX5",
+    "date": "2024-07-20",
+    "time": "05:22:06"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "WDX5",
+    "date": "2024-07-20",
+    "time": "05:23:06"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 14,
+    "game": "WDX5",
+    "date": "2024-07-20",
+    "time": "05:24:36"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DX4",
+    "date": "2024-07-20",
+    "time": "05:27:06"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 13,
+    "game": "DX4",
+    "date": "2024-07-20",
+    "time": "05:28:06"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 14,
+    "game": "DX4",
+    "date": "2024-07-20",
+    "time": "05:29:36"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "DS1",
+    "date": "2024-07-20",
+    "time": "05:49:36"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 12,
+    "game": "DX5",
+    "date": "2024-07-20",
+    "time": "07:38:08"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 13,
+    "game": "DX5",
+    "date": "2024-07-20",
+    "time": "07:39:38"
+  },
+  {
+    "type": "11X5JSC",
+    "name": "极速11选5",
+    "count": 14,
+    "game": "DX5",
+    "date": "2024-07-20",
+    "time": "07:40:38"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 13,
+    "game": "HDS1",
+    "date": "2024-07-20",
+    "time": "07:42:08"
+  },
+  {
+    "type": "SSCJSC",
+    "name": "极速时时彩",
+    "count": 12,
+    "game": "DNDX",
+    "date": "2024-07-20",
+    "time": "09:24:40"
+  },
+  {
+    "type": "PK10JSC",
+    "name": "极速赛车",
+    "count": 12,
+    "game": "LH1",
+    "date": "2024-07-20",
+    "time": "09:30:40"
+  },
+  {
+    "type": "KLSFJSC",
+    "name": "极速快乐十分",
+    "count": 12,
+    "game": "LH4",
+    "date": "2024-07-20",
+    "time": "09:52:10"
+  },
+  {
+    "type": "LUCKYSB",
+    "name": "极速飞艇",
+    "count": 12,
+    "game": "GDX",
+    "date": "2024-07-20",
+    "time": "09:52:40"
   }
 ]
