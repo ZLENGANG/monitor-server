@@ -361,6 +361,7 @@ const writeFileAndSend = async (findObj) => {
     game: findObj.game,
     date: moment().format("YYYY-MM-DD"),
     time: moment().format("HH:mm:ss"),
+    url: "https://www.mgvip18.com/mobile2/#/pages/tabBarPages/index/index",
   };
   overArr.push(info);
 
