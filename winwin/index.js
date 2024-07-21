@@ -344,8 +344,8 @@ const map = {
 const writeFileAndSend = async (findObj) => {
   const sendInfo = {
     title: `${map[findObj.lottery].name}->${findObj.game}->${findObj.rank}`,
-    // "title": `${findObj.lottery}----->${findObj.game}----->${findObj.rank}`,
     desp: "恭喜",
+    url: "https://www.mgvip18.com/mobile2/#/pages/tabBarPages/index/index",
   };
 
   const originData = await fs.readFileSync(dataJSONPath, {
@@ -361,7 +361,6 @@ const writeFileAndSend = async (findObj) => {
     game: findObj.game,
     date: moment().format("YYYY-MM-DD"),
     time: moment().format("HH:mm:ss"),
-    url: "https://www.mgvip18.com/mobile2/#/pages/tabBarPages/index/index",
   };
   overArr.push(info);
 
