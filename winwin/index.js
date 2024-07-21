@@ -4,6 +4,7 @@ const moment = require("moment");
 const { resolve } = require("path");
 const { SEND_KEY, WIN_WIN_TOKEN } = require("../config");
 const dataJSONPath = resolve(__dirname, "./data.json");
+const cp = require("child_process");
 
 const cookies = `_skin_=blue; token=${WIN_WIN_TOKEN}`;
 const sendUrl = `https://sctapi.ftqq.com/${SEND_KEY}.send`;
@@ -398,6 +399,7 @@ const send = () => {
         desp: "Error",
       };
       axios.post(sendUrl, info).then(() => {
+        cp.execSync('pm2 stop monitor-server')
         process.exit(1);
       });
       console.log(info);
